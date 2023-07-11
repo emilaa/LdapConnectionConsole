@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FNmPI3+jlG6+Zr0roia5YxQ5rZvtE2bv/c0i20jBLQiOfjxOGh1u7amv1GxGwSY8ByzAv2+BR0VieGJJiQon/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emil Abdullayev\\Desktop\\Programming\\Code Academy - Intern\\LdapConnect\\LdapConnect\\LdapConnect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emil Abdullayev\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
+    "C:\\Users\\Emil Abdullayev\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Emil Abdullayev\\.nuget\\packages\\novell.directory.ldap.netstandard\\3.6.0\\novell.directory.ldap.netstandard.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
